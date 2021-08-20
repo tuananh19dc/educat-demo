@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 Aug 2021 10:18:49 at https://santhemes.com/tidytheme/aducat/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://santhemes.com/tidytheme/aducat/index.html -O1 "F:\My Web Sites\education" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:19:26	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/services.html (from https://santhemes.com/tidytheme/aducat/index.html)
+10:19:27	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/css/owl.video.play.png (from https://santhemes.com/tidytheme/aducat/css/owl.carousel.css)
+10:19:27	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/slick.eot (from https://santhemes.com/tidytheme/aducat/css/slick.css)
+10:19:27	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/slick.eot? (from https://santhemes.com/tidytheme/aducat/css/slick.css)
+10:19:27	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/slick.woff (from https://santhemes.com/tidytheme/aducat/css/slick.css)
+10:19:27	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/slick.ttf (from https://santhemes.com/tidytheme/aducat/css/slick.css)
+10:19:27	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/slick.svg (from https://santhemes.com/tidytheme/aducat/css/slick.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/single-gallery.html (from https://santhemes.com/tidytheme/aducat/gallery.html)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/icon/elegant-icons/fonts/ElegantIcons.svg (from https://santhemes.com/tidytheme/aducat/icon/elegant-icons/style.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-brands-400.ttf (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-brands-400.svg (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-duotone-900.ttf (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-duotone-900.svg (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-light-300.ttf (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-light-300.svg (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-regular-400.ttf (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:49	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-regular-400.svg (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:52	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-solid-900.ttf (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+10:19:52	Error: 	"Not Found" (404) at link https://santhemes.com/tidytheme/aducat/fonts/fa-solid-900.svg (from https://santhemes.com/tidytheme/aducat/css/font-awesome.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 149 links scanned, 129 files written (10011652 bytes overall) [8577919 bytes received at 136157 bytes/sec], 1934663 bytes transferred using HTTP compression in 58 files, ratio 20%, 18.6 requests per connection
+(19 errors, 0 warnings, 0 messages)
